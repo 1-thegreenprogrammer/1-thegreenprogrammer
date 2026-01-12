@@ -14,18 +14,44 @@ I design, automate, and operate scalable cloud infrastructures with a focus on r
 
 ---
 
-#### What I Work With
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                              T E C H  S T A C K                             │
+└─────────────────────────────────────────────────────────────────────────────┘
 
-| Cloud | Containers | IaC | CI/CD | Monitoring |
-|:---:|:---:|:---:|:---:|:---:|
-| AWS | Docker | Terraform | Jenkins | Prometheus |
-| GCP | Kubernetes | | GitLab CI | Grafana |
-| Azure | | | | |
+  ☁️  CLOUD                    🐳  CONTAINERS            🏗️  INFRASTRUCTURE
+  ─────────────                ─────────────             ─────────────────
+  ▸ AWS                        ▸ Docker                  ▸ Terraform
+  ▸ Google Cloud               ▸ Kubernetes              ▸ Ansible
+  ▸ Azure                      ▸ Docker Compose          ▸ CloudFormation
 
-#### Languages & Tools
+  🔄  CI/CD                    📊  MONITORING            🔐  VERSION CONTROL
+  ─────────────                ─────────────             ─────────────────
+  ▸ Jenkins                    ▸ Prometheus              ▸ Git
+  ▸ GitLab CI                  ▸ Grafana                 ▸ GitHub
+  ▸ GitHub Actions             ▸ ELK Stack               ▸ GitLab / Bitbucket
 
-`Python` `Bash` `PowerShell` `C` `Git`
+  💻  LANGUAGES                🌐  WEB & BACKEND         🗄️  DATABASES
+  ─────────────                ─────────────             ─────────────────
+  ▸ Python                     ▸ Django                  ▸ PostgreSQL
+  ▸ Bash / Shell               ▸ Node.js                 ▸ DynamoDB
+  ▸ PowerShell                 ▸ Nginx                   ▸ SQLite
+  ▸ C                          ▸ React                   ▸ MongoDB
+
+  🤖  ML & DATA
+  ─────────────
+  ▸ TensorFlow / Keras
+  ▸ Pandas / NumPy
+  ▸ Scikit-learn
+  ▸ Matplotlib
+```
 
 ---
+
+```
+           Plan ──▶ Code ──▶ Build ──▶ Test ──▶ Deploy ──▶ Monitor
+             │                                               │
+             └───────────────── ♻️ ──────────────────────────┘
+```
 
 > *"Automate everything that can be automated."*
