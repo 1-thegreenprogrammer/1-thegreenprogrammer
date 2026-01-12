@@ -1,35 +1,31 @@
-# Driss Bendahan
+```
+ ____       _             ____                 _       _                 
+|  _ \ _ __(_)___ ___    | __ )  ___ _ __   __| | __ _| |__   __ _ _ __  
+| | | | '__| / __/ __|   |  _ \ / _ \ '_ \ / _` |/ _` | '_ \ / _` | '_ \ 
+| |_| | |  | \__ \__ \   | |_) |  __/ | | | (_| | (_| | | | | (_| | | | |
+|____/|_|  |_|___/___/   |____/ \___|_| |_|\__,_|\__,_|_| |_|\__,_|_| |_|
+```
 
-**DevOps & Cloud Engineer**
+### DevOps & Cloud Engineer
 
-Building scalable, secure, and automated cloud infrastructures. Specialized in AWS, GCP, Kubernetes, and Infrastructure as Code.
+I design, automate, and operate scalable cloud infrastructures with a focus on reliability, security, and efficiency.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/driss-bendahan/)
-
----
-
-## Expertise
-
-**Cloud Platforms:** AWS • GCP • Azure
-
-**Container & Orchestration:** Docker • Kubernetes
-
-**Infrastructure as Code:** Terraform
-
-**CI/CD:** Jenkins • GitLab CI
-
-**Monitoring:** Prometheus • Grafana
-
-**Languages:** Python • Bash • PowerShell • C
-
-**Version Control:** GitHub • GitLab • Bitbucket
+[![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/driss-bendahan/)
 
 ---
 
-## GitHub Activity
+#### What I Work With
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1-thegreenprogrammer&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+| Cloud | Containers | IaC | CI/CD | Monitoring |
+|:---:|:---:|:---:|:---:|:---:|
+| AWS | Docker | Terraform | Jenkins | Prometheus |
+| GCP | Kubernetes | | GitLab CI | Grafana |
+| Azure | | | | |
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1-thegreenprogrammer&theme=github_dark&hide_border=true&layout=compact)
+#### Languages & Tools
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=1-thegreenprogrammer&theme=github_dark&hide_border=true)
+`Python` `Bash` `PowerShell` `C` `Git`
+
+---
+
+> *"Automate everything that can be automated."*
