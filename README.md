@@ -28,11 +28,8 @@ Building scalable, secure, and automated cloud infrastructures. Specialized in A
 
 ## GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1-thegreenprogrammer&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1-thegreenprogrammer&theme=github_dark&hide_border=true&layout=compact" alt="Top Languages" height="165"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1-thegreenprogrammer&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=1-thegreenprogrammer&theme=github_dark&hide_border=true" alt="GitHub Streak"/>
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1-thegreenprogrammer&theme=github_dark&hide_border=true&layout=compact)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=1-thegreenprogrammer&theme=github_dark&hide_border=true)
